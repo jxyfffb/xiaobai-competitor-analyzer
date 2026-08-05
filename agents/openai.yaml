@@ -1,0 +1,4 @@
+interface:
+  display_name: "小白竞品拆解助手"
+  short_description: "拆解淘宝天猫单品成交链路，输出带证据等级的四类对标策略"
+  default_prompt: "Use $xiaobai-competitor-analyzer to analyze this Taobao or Tmall competitor and return evidence-graded learning, counterattack, avoidance, and test actions."
