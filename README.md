@@ -65,15 +65,15 @@
 - 食品、母婴、医疗、保健和功效类商品，需要结合最新广告法、平台规则和专业意见复核。
 - 输出只用于运营分析、策略讨论和创意参考，不承诺销量、点击率、转化率、排名或收益。
 
-想看看电商老兵小白还有哪些 AI Skill，可访问[电商 AI Skill 工具箱目录](https://bucolic-caramel-863bf9.netlify.app/?utm_source=github&utm_medium=readme&utm_campaign=competitor_skill)。
+想查看更多电商行业常用的 AI Skill，可先访问[电商 AI Skill 合集目录](https://bucolic-caramel-863bf9.netlify.app/?utm_source=github&utm_medium=readme&utm_campaign=competitor_skill)。
 
 ## 我们是谁
 
-电商老兵小白（jiaowoxiao_bai）——把电商运营方法沉淀成可以重复使用的 AI Skill。
+电商老兵小白（jiaowoxiao_bai）——持续把电商运营经验做成实用工具，也会收集、筛选和整理行业里好用的 AI Skill。
 
-这个竞品拆解助手只是工具箱里的一个。工具箱还覆盖选题判断、标题生成、主图诊断、详情页优化、利润测算、买家秀和评价分析等电商运营环节。
+除了这个竞品拆解助手，我还整理了一份电商行业常用的 AI Skill 合集，覆盖选题、标题、主图、详情页、利润测算、买家秀和评价分析等电商运营环节。
 
-**添加微信请备注“竞品Skill”**，我发你完整工具箱清单，并邀请你进入电商运营群；群里会持续更新新 Skill 和使用案例。
+如果你需要更多好用的 Skill，可以**添加微信并备注“竞品Skill”**。后续发现新的实用 Skill，我也会持续收集、筛选和更新。
 
 ![添加微信，备注“竞品Skill”](assets/引流图.png)
 
